@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "allergy": "Metals",
+      "skin_concern": "Acne",
+      "skin_sensitivity": "Sensitive",
+      "skin_tones": "Fair",
+      "skin_type": "Oily",
+      "product_category": "light"
+    },
+    {
+      "allergy": "None",
+      "skin_concern": "Dryness",
+      "skin_sensitivity": "Normal",
+      "skin_tones": "Medium",
+      "skin_type": "Dry",
+      "product_category": "medium"
+    },
+    {
+      "allergy": "Fragrances",
+      "skin_concern": "Aging",
+      "skin_sensitivity": "Sensitive",
+      "skin_tones": "Dark",
+      "skin_type": "Combination",
+      "product_category": "deep"
+    },
+    {
+      "allergy": "Preservatives",
+      "skin_concern": "Hyperpigmentation",
+      "skin_sensitivity": "Sensitive",
+      "skin_tones": "Fair",
+      "skin_type": "Normal",
+      "product_category": "light medium"
+    },
+    {
+      "allergy": "None",
+      "skin_concern": "Redness",
+      "skin_sensitivity": "Sensitive",
+      "skin_tones": "Fair",
+      "skin_type": "Oily",
+      "product_category": "medium deep"
+    }
+  ]
+}
